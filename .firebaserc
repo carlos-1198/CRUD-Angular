@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "typescript-angular-fb379": {
+      "hosting": {
+        "platzi-typeScript": [
+          "typescript-angular-fb379"
+        ]
+      }
+    }
+  }
+}
